@@ -1,7 +1,9 @@
 # articles_papers
-My research articles &amp; papers in Blockchains, Cryptocurrencies, DeFi, ZK, ...
+My research articles &amp; accepted papers in Blockchains, Cryptocurrencies, DeFi, ZK, ...
 
-/B Health Status Statement /B
+B Health Status Statement:
+
+
 Since all applications involve this wide range disability questionnaire, let me please state the
 following:
 I thank GOD every second that I do not have any disability, and pray GOD to stay so till I die.
