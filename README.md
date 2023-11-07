@@ -1,7 +1,7 @@
 # articles_papers
 My research articles &amp; accepted papers in Blockchains, Cryptocurrencies, DeFi, ZK, ...
 
-B Health Status Statement:
+Health Status Statement:
 
 
 Since all applications involve this wide range disability questionnaire, let me please state the
